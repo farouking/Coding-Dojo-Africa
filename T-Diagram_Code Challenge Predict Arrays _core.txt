@@ -1,0 +1,38 @@
+Code Snippet 1:
+
+var         |      value
+-----------------------
+contactInf  | ["Paula", "Smith", "1234 Main Street", "St. Louis", "MO", 12345]
+	    |
+            |
+	    |
+
+console.log(contactInfo); ==> ["Paula", "Smith", "1234 Main Street", "St. Louis", "MO", 12345]
+
+
+
+
+Code Snippet 2
+
+var         |      value
+-----------------------
+produce     | ["apples", "oranges"],["apples", "oranges","hashbrowns"]
+	    |
+frozen      |["broccoli", "ice cream"]
+	    |
+
+
+console.log(frozen); ==> ["apples", "oranges","hashbrowns"]
+
+
+Code Snippet 3
+
+var          |      value
+-----------------------
+movieLibrary | ["Bambi", "E.T.", "Toy Story"],["Bambi", "E.T.", "Toy Story","Zorro"],["Beetlejuice", "E.T.", "Toy Story","Zorro"]
+	     |
+frozen       |
+	     |
+
+
+
