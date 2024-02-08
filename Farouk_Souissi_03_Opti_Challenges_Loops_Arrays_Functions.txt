@@ -1,0 +1,32 @@
+var arr1=[8,6,7,5,3,0,9]
+var arr2=[4,7,13,13,19,37,-2]
+var arr3=[6,2,12,14,-24,5,0]
+===============================================
+
+fuction traverse_Array(arr)
+{
+for( var i=0;i<arr.length;i++)
+{
+console.log(arr[i]);
+}
+}
+==============================================
+fuction sum_Array(arr)
+{
+var sum=0;
+for( var i=0;i<arr.length;i++)
+{
+sum=arr[i]+i;
+}
+}
+===============================================
+Function Great_than5 ()
+{
+for( var i=0;i<arr.length;i++)
+{
+	if(arr[i] > 5)
+	{
+	console.log(arr[i]);
+	}
+}
+}
